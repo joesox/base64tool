@@ -1,0 +1,6 @@
+C:\Users\Joe\documents\visual studio 2010\Projects\base64tool\base64tool\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2010\Projects\base64tool\base64tool\bin\Release\base64tool.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\base64tool\base64tool\bin\Release\base64tool.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\base64tool\base64tool\obj\x86\Release\base64tool.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\base64tool\base64tool\obj\x86\Release\base64tool.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\base64tool\base64tool\bin\Release\base64tool.exe.config
